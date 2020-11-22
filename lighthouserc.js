@@ -24,6 +24,10 @@ module.export = {
         },
         server: {
 
+        },
+        env: {
+            kind: 'chrome',
+            runner: 'C:\Program Files\Google\Chrome\Application'
         }
     }
 }
